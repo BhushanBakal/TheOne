@@ -1,0 +1,8 @@
+Things to add to this framework:
+
+Screen shot method not added.
+reporting addition pending
+data reading from excel pending (data driven approach)
+
+
+git check
