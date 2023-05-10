@@ -1,0 +1,8 @@
+com\utilities\ConfigFileReader.class
+com\pageObjects\CheckoutPage.class
+com\utilities\ScreenShotUtility.class
+com\managers\FileReaderManager.class
+com\managers\PageObjectManager.class
+com\pageObjects\ProductListingPage.class
+com\pageObjects\HomePage.class
+com\pageObjects\CartPage.class

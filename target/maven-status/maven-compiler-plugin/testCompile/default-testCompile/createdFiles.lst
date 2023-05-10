@@ -1,0 +1,3 @@
+com\runners\StepDefinationsSteps.class
+com\seleniumTests\SeleniumE2ETest.class
+com\runners\TestRunner.class
